@@ -1,0 +1,2 @@
+root component boosts from main.ts
+main-->app module--> app component--> root module

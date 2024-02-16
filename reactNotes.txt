@@ -1,0 +1,63 @@
+how can we start our react file.....?
+car----key
+
+npx create-react-app (name)------to start react app
+
+npm----- run the react app
+
+home network: the network we are connected to
+
+
+NOTE: app.js is our Rendor file on the browser (which file show the output on browser).
+
+
+components:
+1.Functional component
+
+Rule1: We cant not put the multiple tags <h1><p><form>
+If you want to write or put multiple tags kindly wrap it up....
+So this wrap is called JSX which can wrap up all the tags.
+
+Rule2: we can not use the class directly it works but shows the error in console. 
+Instead of class we have to use className.
+why it shows an error ...?
+
+How to rendor a component?
+
+you can create multiple components with different works but you have to import in app.js for showing it on the browser.
+
+---------------------------------------------------------
+can we change a word or a function or anything by the different file---> yes
+
+props can easily change the statement or anything... just have to pass props
+
+props can change the state.
+
+props need to be passed inside function as argument 
+
+----------------------------------------------------------------
+
+create a file and and write a short note
+------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+useState:useState has two variable and takes the first variable and prints its value 
+
+
+
+
+
+
+
+
+
+
